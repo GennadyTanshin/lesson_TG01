@@ -1,1 +1,1 @@
-TOKEN = '7399150580:AAGqNYW4Mp7Ecrbu0R6Yhcql1qWfvrCpVoo'
+TOKEN = My_Telegram_Token
